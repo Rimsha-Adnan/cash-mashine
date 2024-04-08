@@ -1,0 +1,20 @@
+{
+  "name": "cash-deposite-machine-22",
+  "version": "1.0.0",
+  "description": "i am going to create a cash deposite machine",
+  "main": "index.js",
+  "type": "module",
+  "'bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rimsha Sheikh",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
