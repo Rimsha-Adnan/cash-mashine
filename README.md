@@ -1,4 +1,4 @@
-<h1>CASH-DEPOSITE-MACHINE"🏧/h1>
+<h1>CASH-DEPOSITE-MACHINE"🏧</h1>
 <h1>AUTHOR NAME 🖊️</h1>
 <h1>RIMSHA SHEIKH 🖤</h1>
 <h1>Description📍</h1>
@@ -12,7 +12,7 @@
 <li>Transaction Confirmation: Confirm your transactions before proceeding.</li>
 <li>Viewing Results: The ATM will display transaction results and updated account balances.</li>
 </ul>
-<h>Installation🎯</h1>
+<h1>Installation🎯</h1=
 <p>If you ant to use live this ATM(Automated Teller Machine) so you can install it from npm the command is </br>
 <b>NPX new-cash-deposite-machine</b> </br>
 My PIN CODE is <b>9876</b></p>
